@@ -10,3 +10,14 @@ main {
   margin-left: auto;
   margin-right: auto;
 }
+.image1{
+	float:left;
+	width:200px;
+	height:250px;
+}
+.image2{
+	float:right;
+	width:200px;
+	height:250px;
+
+}
